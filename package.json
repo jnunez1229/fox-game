@@ -25,5 +25,10 @@
     "eslint-plugin-import": "^2.25.4",
     "parcel-bundler": "^1.12.5",
     "prettier": "^2.5.1"
-  }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 11"
+  ]
 }
