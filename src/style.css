@@ -90,7 +90,10 @@ body {
   right: 0;
   background-color: peru;
   color: black;
-  
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 12px;
 }
 
 .modal:empty{
